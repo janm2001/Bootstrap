@@ -1,0 +1,59 @@
+li {
+	display:inline;
+	font-size: 18px;
+	font-family:impact;
+	margin-right: 10px;
+}
+ul a {
+	text-decoration:none;
+	color:black;
+}
+ul {
+	background: silver;
+	width:100%;
+}
+.pull {
+	float:left;
+	font-size: 30px;
+}
+.pullr {
+	float: right;
+}
+#color {
+	color: blue;
+
+}
+body {
+	background: url(bch.jpg);
+	color:white;
+}
+.blue {
+	color:blue;
+}
+
+.red {
+	color:red;
+}
+#family {
+	width:400px;
+	height: 400px;
+}
+#family2 {
+	width: 200px;
+	height: 200px;
+}
+.together {
+	width:75px;
+	height: 75px;
+}
+footer {
+	background: white;
+	color:black
+
+}
+#padding{
+	margin-top:85px;
+}
+#padding1 {
+	margin-top:425px;
+}
